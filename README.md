@@ -40,3 +40,7 @@ A aplicação estará disponível em: http://localhost:3000/
 - [Typescript](https://www.typescriptlang.org/docs/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [HTML](https://www.w3schools.com/html/)
+
+---
+
+<p align="center">Made with 💜 by Davy de Souza</p>
