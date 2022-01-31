@@ -28,7 +28,7 @@ A aplicação estará disponível em: http://localhost:3000/
 
 ## ⛏️ Ferramentas Utilizadas
 - [React](https://pt-br.reactjs.org/docs/getting-started.html) 
-- [Firebase](https://firebase.google.com/) -- Utilizado para hosting
+- [Firebase](https://firebase.google.com/)
 - [Typescript](https://www.typescriptlang.org/docs/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [HTML](https://www.w3schools.com/html/)
