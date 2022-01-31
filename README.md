@@ -18,16 +18,18 @@ Após clonar o repositório, acesse o diretório do projeto via terminal e insta
 npm install
 ```
 
-Após instalar as depêndencias configure as variaveis do [Firebase](https://firebase.google.com/) em src/services/firebase.ts
+Após instalar as depêndencias configure as variaveis do [Firebase](https://firebase.google.com/) em `src/services/firebase.ts`
 
-<p align="center">
+<p align="left">
   <img alt="firebase config" src=".github/firebase.png">
 </p>
 
-Após finalizar a instalação inicie o ambiente de desenvolvimento utilizando o comando:
+Após finalizar a instalação e a configuração do Firebase inicie o ambiente de desenvolvimento utilizando o comando:
 
 ```
 npm start
+or
+yarn start
 ```
 
 A aplicação estará disponível em: http://localhost:3000/
