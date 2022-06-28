@@ -15,7 +15,7 @@ Antes de começar, certifique-se de que seu computador tenha as versões do Node
 Após clonar o repositório, acesse o diretório do projeto via terminal e instale as dependências usando:
 
 ```
-npm install
+yarn
 ```
 
 Após instalar as depêndencias configure as variaveis do [Firebase](https://firebase.google.com/) em `src/services/firebase.ts`
@@ -27,8 +27,6 @@ Após instalar as depêndencias configure as variaveis do [Firebase](https://fir
 Após finalizar a instalação e a configuração do Firebase inicie o ambiente de desenvolvimento utilizando o comando:
 
 ```
-npm start
-or
 yarn start
 ```
 
